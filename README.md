@@ -8,8 +8,9 @@ E13.7. Практическая работа
 4.Настроить JSON-server и отображать полученные с него данные.
 5.Добавить запуск линтера при комите.
 
-Запуск на разных окружениях: npm run start:dev для webpack.dev.js
-                             npm run start:prod для webpack.prod.js
+Запуск на разных окружениях:
+npm run start:dev для webpack.dev.js
+npm run start:prod для webpack.prod.js
 
 Для настройки JSON-server: json-server --watch database.json
 
