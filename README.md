@@ -10,6 +10,7 @@ E13.7. Практическая работа
 
 Запуск на разных окружениях:
 npm run start:dev для webpack.dev.js
+и
 npm run start:prod для webpack.prod.js
 
 Для настройки JSON-server: json-server --watch database.json
