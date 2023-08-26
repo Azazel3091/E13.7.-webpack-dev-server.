@@ -1,0 +1,7 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+    align-items: center;
+    justify-items: start;
+}
