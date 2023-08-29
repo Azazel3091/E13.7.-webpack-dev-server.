@@ -1,5 +1,5 @@
 module.exports = {
-    mode: "development",
+    mode: "production",
     devtool: "inline-source-map",
     entry: "./src/index.js",
     output: {filename: "main.js"},
